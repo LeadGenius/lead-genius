@@ -9,7 +9,7 @@
 }
 
 .site-title {
-    margin: 12px 0;
+    margin: 12px 0 0;
     float: left;
 
     &,
@@ -23,9 +23,17 @@
     }
 }
 
+.site-subtitle {
+  float: left;
+  font-size: 16px;
+  font-family: $bree-font-family;
+  margin: 38px 0 0 35px;
+}
+
 .site-nav {
     float: right;
     line-height: 56px;
+    clear: both;
 
     .menu-icon {
         display: none;

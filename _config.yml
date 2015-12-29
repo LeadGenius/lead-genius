@@ -17,3 +17,7 @@ github_username:  lead-genius
 
 # Build settings
 markdown: kramdown
+
+gems:
+- jekyll-sitemap
+- jekyll-feed
