@@ -28,6 +28,10 @@
   font-size: 16px;
   font-family: $bree-font-family;
   margin: 38px 0 0 35px;
+
+  &:hover {
+    color: $brand-color-blue;
+  }
 }
 
 .site-nav {
